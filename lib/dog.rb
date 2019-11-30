@@ -7,5 +7,5 @@ def bark
 end
 end 
 
-fifi = class Dog.new 
+fifi =  Dog.new 
   
