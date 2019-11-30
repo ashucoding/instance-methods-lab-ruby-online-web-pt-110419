@@ -13,4 +13,4 @@ class Dog
   end
 end
 
-
+dog.sit
