@@ -7,5 +7,11 @@ def bark
 end
 end 
 
-dog.new = "Fifi"
+class Dog 
+  def sit 
+    puts "The Dog is sitting"
+  end
+end
+
+dog.sit
 
